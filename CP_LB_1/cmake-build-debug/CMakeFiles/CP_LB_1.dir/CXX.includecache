@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/HUAWEI/CLionProjects/CP_LB_1/clases.h
+iostream
+-
+fstream
+-
+vector
+-
+cmath
+-
+sstream
+-
+
+C:/Users/HUAWEI/CLionProjects/CP_LB_1/class.h
+
+C:/Users/HUAWEI/CLionProjects/CP_LB_1/main.cpp
+clases.h
+C:/Users/HUAWEI/CLionProjects/CP_LB_1/clases.h
+class.h
+C:/Users/HUAWEI/CLionProjects/CP_LB_1/class.h
+
